@@ -41,25 +41,25 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAm9ILsVwuElSQ8ZZxg1yZh-eegROrnykU',
-    appId: '1:921914971048:web:37fe37bcde7c327206039d',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '921914971048',
     projectId: 'fir-001-87761',
-    authDomain: 'fir-001-87761.firebaseapp.com',
+    authDomain: '',
     storageBucket: 'fir-001-87761.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBkW15sEoOcuJmok7tWYnv9MTUOhKo-OOM',
-    appId: '1:921914971048:android:3bc650dedf8426e706039d',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '921914971048',
     projectId: 'fir-001-87761',
     storageBucket: 'fir-001-87761.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB6QRhk8YkLwkeAVzbB4sDaabhjC6GGkD8',
-    appId: '1:921914971048:ios:8d2f79550727be1a06039d',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '921914971048',
     projectId: 'fir-001-87761',
     storageBucket: 'fir-001-87761.firebasestorage.app',
@@ -67,20 +67,20 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB6QRhk8YkLwkeAVzbB4sDaabhjC6GGkD8',
-    appId: '1:921914971048:ios:8d2f79550727be1a06039d',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '921914971048',
     projectId: 'fir-001-87761',
-    storageBucket: 'fir-001-87761.firebasestorage.app',
+    storageBucket: '',
     iosBundleId: 'com.example.kelimeoyunu',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAm9ILsVwuElSQ8ZZxg1yZh-eegROrnykU',
-    appId: '1:921914971048:web:3b5861aec3b3a57b06039d',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '921914971048',
     projectId: 'fir-001-87761',
-    authDomain: 'fir-001-87761.firebaseapp.com',
+    authDomain: '',
     storageBucket: 'fir-001-87761.firebasestorage.app',
   );
 }
